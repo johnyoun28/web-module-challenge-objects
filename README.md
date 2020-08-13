@@ -8,6 +8,7 @@
 - learn to create methods on objects, and utilize the `this` keyword
 
 initial commit
+second commit
 
 ## Introduction
 
